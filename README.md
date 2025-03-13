@@ -8,10 +8,3 @@ Data Cleaning and Preprocessing in Pandas.
 Data Transformation in Power Query.
 ⚒Data Modelling and Building Parameters in Power BI using DAX.
 Building the Dashboard in Power BI.
-Steps involved in the project:
-📝Requirement Scoping
-🌐Data Collection using Web Scraping from ESPN Cricinfo website
-🧹Data Cleaning and Preprocessing in Pandas
-🪄Data Transformation in Power Query
-⚒️Data Modelling and Building Parameters in Power BI using DAX
-📊Building the Dashboard in Power BI
