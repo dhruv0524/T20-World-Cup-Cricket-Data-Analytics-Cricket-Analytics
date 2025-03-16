@@ -24,6 +24,10 @@ to select an **optimal playing XI** with a **90% predicted chance of winning mat
 ✅ **Optimal Team Selection**: Chose the best **playing XI** based on predictive analysis.  
 ✅ **Interactive Power BI Dashboard**: Enabled **dynamic** player comparison and team selection.  
 
+---
+
+### 📢 Check out this project! 🚀
+
 
 
 
