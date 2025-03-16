@@ -1,10 +1,29 @@
-# T20-World-Cup-Cricket-Data-Analytics-Cricket-Analytics
-The Cricket Data Analytics project is made on T-20 Cricket World Cup Data. I have used Power BI for making the Dashboard. We can easily analyse the data of the matches played in the world cup. We can also choose our best playing 11 from the pool of players playing the world cup.
+# 🏏 T20 World Cup Cricket Data Analytics
 
-# Steps involved in the project:
-Requirement Scoping.
-Data Collection using Web Scraping from ESPN Cricinfo website.
-Data Cleaning and Preprocessing in Pandas.
-Data Transformation in Power Query.
-Data Modelling and Building Parameters in Power BI using DAX.
-Building the Dashboard in Power BI.
+## 📌 Overview  
+This project leverages **data analytics** to identify the best **T20 cricket team** by analyzing player performance metrics.  
+Data is scraped from **ESPN Cricinfo** using **Brightdata**, processed using **Python and Pandas**, and visualized in **Power BI**  
+to select an **optimal playing XI** with a **90% predicted chance of winning matches**.  
+
+## 🚀 Tech Stack  
+### 🖥 Programming & Data Processing  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+
+### 🌐 Web Scraping  
+![Brightdata](https://img.shields.io/badge/Web%20Scraping-Brightdata-FF6F00?style=for-the-badge&logo=webscraper&logoColor=white)  
+
+### 📊 Data Visualization & Analytics  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+## 🔑 Key Features  
+✅ **Player Performance Analysis**: Evaluated batting, bowling, and all-rounder statistics.  
+✅ **Data Cleaning & Transformation**: Used Pandas for preprocessing and structuring data.  
+✅ **Web Scraping**: Automated data extraction from **ESPN Cricinfo** using Brightdata.  
+✅ **Optimal Team Selection**: Chose the best **playing XI** based on predictive analysis.  
+✅ **Interactive Power BI Dashboard**: Enabled **dynamic** player comparison and team selection.  
+
+
+
+
